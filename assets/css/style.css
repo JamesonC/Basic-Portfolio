@@ -17,10 +17,6 @@ p {
 
 /* Start of Nav Bar */
 
-a.LinkedIn {
-    color: #4aaaa5;
-}
-
 .header {
     background-color: #ffffff;
     height: 20px;
@@ -51,6 +47,7 @@ a.LinkedIn {
     font-size: 25px;
     color: white;
     font-family: 'Georgia', Times, Times New Roman, serif;
+    align-content: top;
 }
   
   /* Style the header links */
@@ -76,6 +73,10 @@ hr {
 img {
     float: left;
     padding-right: 20px;
+}
+
+a.LinkedIn {
+    color: #4aaaa5;
 }
 
 .container {
