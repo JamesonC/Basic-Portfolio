@@ -74,6 +74,7 @@ hr {
 img {
     float: left;
     padding-right: 20px;
+    margin-bottom: 10px;
 }
 
  .container-portfolio {
@@ -94,6 +95,10 @@ img {
 .grid-container {
     position: relative;
     display: inline;
+}
+
+.P2, .P4 {
+    margin-right: 50%; 
 }
 
 footer {
