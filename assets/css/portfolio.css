@@ -92,7 +92,8 @@ img {
 }
 
 .grid-container {
-    display: block;
+    position: relative;
+    display: inline;
 }
 
 footer {
